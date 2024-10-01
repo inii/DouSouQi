@@ -1,0 +1,50 @@
+{
+  "bundles": [
+    {
+      "bundle_id": 0,
+      "bundle_name": "gassets_other_materials",
+      "assets": [
+        "Assets/GAssets/Other/Materials/SphereM.mat"
+      ]
+    },
+    {
+      "bundle_id": 1,
+      "bundle_name": "gassets_prefabs",
+      "assets": [
+        "Assets/GAssets/Prefabs/Sphere.prefab"
+      ]
+    },
+    {
+      "bundle_id": 2,
+      "bundle_name": "gassets_textures",
+      "assets": [
+        "Assets/GAssets/Textures/New Physics Material 2D.physicsMaterial2D",
+        "Assets/GAssets/Textures/OneRenderTexture.renderTexture"
+      ]
+    }
+  ],
+  "assetInfos": [
+    {
+      "asset_path": "Assets/GAssets/Other/Materials/SphereM.mat",
+      "bundle_id": 0,
+      "dependencies": []
+    },
+    {
+      "asset_path": "Assets/GAssets/Prefabs/Sphere.prefab",
+      "bundle_id": 1,
+      "dependencies": [
+        0
+      ]
+    },
+    {
+      "asset_path": "Assets/GAssets/Textures/New Physics Material 2D.physicsMaterial2D",
+      "bundle_id": 2,
+      "dependencies": []
+    },
+    {
+      "asset_path": "Assets/GAssets/Textures/OneRenderTexture.renderTexture",
+      "bundle_id": 2,
+      "dependencies": []
+    }
+  ]
+}

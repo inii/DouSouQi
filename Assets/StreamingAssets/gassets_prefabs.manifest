@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 4128308938
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6cfb6bfb41aa69ecc3f0284ccb402b00
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 173c92049fa4f46ef09f166b73c2eb70
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 6cfb6bfb41aa69ecc3f0284ccb402b00
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GAssets/Prefabs/Sphere.prefab
+Dependencies:
+- /Users/jo/playground/DouShouQi/Assets/StreamingAssets/gassets_other_materials

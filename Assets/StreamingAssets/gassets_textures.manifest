@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 4079427306
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 672df88c7c1da32263d801c7cc0cfa81
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aba304b8371de4b2d53fd5d5f7562875
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 672df88c7c1da32263d801c7cc0cfa81
+HashAppended: 0
+ClassTypes:
+- Class: 62
+  Script: {instanceID: 0}
+- Class: 84
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GAssets/Textures/New Physics Material 2D.physicsMaterial2D
+- Assets/GAssets/Textures/OneRenderTexture.renderTexture
+Dependencies: []
